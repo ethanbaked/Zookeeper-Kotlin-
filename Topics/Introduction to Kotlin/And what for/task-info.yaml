@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: Write mobile applications
+- text: Write server-side and desktop applications
+- text: Develop frameworks and libraries
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/18833#comment
+status: Unchecked
+record: -1
+custom_name: And what for?
+local_check: false
